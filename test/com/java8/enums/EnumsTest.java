@@ -38,5 +38,7 @@ public class EnumsTest {
 
         System.out.println(Color.BLANK.getIndex());
         //3
+
+        //test git
     }
 }
